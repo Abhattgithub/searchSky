@@ -1,0 +1,12 @@
+{
+  "name": "searchsky",
+  "version": "1.0.0",
+  "description": "Check weather of your city.",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhijeet Bhatt",
+  "license": "ISC"
+}
